@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+}
+    
+  },
+  "devDependencies": {
+    "jest": "^30.0.1",
+    "supertest": "^7.1.1"
+    
+  }
+}
